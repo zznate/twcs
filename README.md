@@ -15,6 +15,16 @@ And:
 
 http://www.slideshare.net/JeffJirsa1/cassandra-summit-2015-real-world-dtcs-for-operators
 
+Version Compatibility
+---------------------
+
+We maintain our own [semantic versioning](http://semver.org/) for this project. This will make it easier in the long run. Compatibility is as follows:
+
+4.0: Apache Cassandra 3.1
+3.0: Apache Cassandra 2.2
+2.0: Apache Cassandra 2.1
+1.0: Apache Cassandra 2.0
+
 Setup
 -----
 

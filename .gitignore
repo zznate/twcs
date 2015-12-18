@@ -1,4 +1,10 @@
 *.class
 *~
 *-
-TimeWindowCompactionStrategy/target/
+target/
+.java-version
+*.iml
+.idea/
+.settings
+.classpath
+.project
